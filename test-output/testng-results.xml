@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T18:27:42 IST" name="Default suite" finished-at="2021-09-07T18:27:45 IST" duration-ms="2386">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T18:27:42 IST" name="Default test" finished-at="2021-09-07T18:27:45 IST" duration-ms="2386">
+      <class name="RestAssured.API.DynamicPayload">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:RestAssured.API.DynamicPayload@19d481b]" started-at="2021-09-07T18:27:42 IST" name="addBook" data-provider="getData" finished-at="2021-09-07T18:27:44 IST" duration-ms="2090" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[book4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1004]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:RestAssured.API.DynamicPayload@19d481b]" started-at="2021-09-07T18:27:44 IST" name="addBook" data-provider="getData" finished-at="2021-09-07T18:27:44 IST" duration-ms="122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[book5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1005]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:RestAssured.API.DynamicPayload@19d481b]" started-at="2021-09-07T18:27:44 IST" name="addBook" data-provider="getData" finished-at="2021-09-07T18:27:45 IST" duration-ms="134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[book6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1006]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- RestAssured.API.DynamicPayload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
