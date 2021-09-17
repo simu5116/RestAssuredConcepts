@@ -10,7 +10,7 @@ public class importantnotes {
 		 * Oauth2.0:----
 		 * 
 		 * When we are using any website and it requires our sign in
-		 * so we have option to sign in with out=r google account
+		 * so we have option to sign in with our google account
 		 * so how does exactly this works in backend,
 		 * 
 		 * does google share password with the website that we are using ?
